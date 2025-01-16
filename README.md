@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bushra Dajam</h1>
+<h1 align="center">Hi 👋, I'm Bushra A </h1>
 <h3 align="center">AI student from KSA</h3>
 
 
