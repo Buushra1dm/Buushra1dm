@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bushra A </h1>
-<h3 align="center">AI student from KSA</h3>
+<h3 align="center">AI student from UJ</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buushra1dm&label=Profile%20views&color=0e75b6&style=flat" alt="buushra1dm" /> </p>
