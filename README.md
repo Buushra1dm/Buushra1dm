@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buushra1dm" alt="buushra1dm" /></a> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **LLM**
 
 - 📫 How to reach me **bushra1dajam@gmail.com**
 
