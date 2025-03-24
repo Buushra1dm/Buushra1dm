@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bushra A </h1>
 <h3 align="center">AI student from UJ</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buushra1dm&label=Profile%20views&color=0e75b6&style=flat" alt="buushra1dm" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buushra1dm" alt="buushra1dm" /></a> </p>
 
 
 - 🌱 I’m currently learning **LLM**
