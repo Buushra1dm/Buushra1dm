@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buushra1dm&label=Profile%20views&color=0e75b6&style=flat" alt="buushra1dm" /> </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Buushra1dm&color=blue)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buushra1dm" alt="buushra1dm" /></a> </p>
 
 
