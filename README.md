@@ -22,3 +22,75 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buushra1dm&show_icons=true&locale=en&layout=compact" alt="buushra1dm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buushra1dm&show_icons=true&locale=en" alt="buushra1dm" /
+
+
+
+
+<!-- Profile README for GitHub -->
+<!-- Replace YOUR_GITHUB_USERNAME everywhere below -->
+
+<h1 align="center">Hi, I'm Bushra 👋</h1>
+
+<p align="center">
+  🎓 Fresh AI Graduate • 🤖 ML/DL/NLP • 📊 Data Analysis • 🌍 Saudi Arabia
+</p>
+
+---
+
+### 🧰 Languages and Tools
+<p align="left">
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="Jupyter"/>
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="36" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap"/>
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="36" alt="Trello"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" height="36" alt="Odoo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="36" alt="Power BI"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="left">
+
+<!-- Main stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&ring_color=8a2be2&title_color=bf91f3&icon_color=bf91f3" height="170" alt="GitHub Stats"/>
+
+</div>
+
+---
+
+### 🔤 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Langs"/>
+
+---
+
+### 🏆 Trophies (optional)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
+
+---
+
+### 🤝 Connect
+- 💼 <a href="https://www.linkedin.com/in/bushra-dajam/">LinkedIn</a>
+- 📧 your.email@example.com
+
+---
+
+> **EN:** Fresh AI graduate passionate about ML/DL/NLP, building data-driven solutions and collaborating on impactful projects.  
+> **AR:** خريجة ذكاء اصطناعي شغوفة بتعلم الآلة والتعلم العميق ومعالجة اللغة الطبيعية، أحب بناء حلول عملية والتعاون في مشاريع مؤثرة.
+
