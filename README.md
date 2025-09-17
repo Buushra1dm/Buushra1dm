@@ -69,25 +69,25 @@
 <div align="left">
 
 <!-- Main stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&ring_color=8a2be2&title_color=bf91f3&icon_color=bf91f3" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Buushra1dm&show_icons=true&theme=tokyonight&hide_border=true&ring_color=8a2be2&title_color=bf91f3&icon_color=bf91f3" height="170" alt="GitHub Stats"/>
 
 </div>
 
 ---
 
 ### 🔤 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buushra1dm&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Langs"/>
 
 ---
 
 ### 🏆 Trophies (optional)
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Buushra1dm&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
 
 ---
 
 ### 🤝 Connect
 - 💼 <a href="https://www.linkedin.com/in/bushra-dajam/">LinkedIn</a>
-- 📧 your.email@example.com
+- 📧 bushra1dajam@gmail.com
 
 ---
 
