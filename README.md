@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bushra A </h1>
 <h3 align="center">AI student from UJ</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Buushra1dm&color=blue)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buushra1dm" alt="buushra1dm" /></a> </p>
-
-
 
 
 
@@ -30,6 +25,7 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Buushra1dm&color=blue)
 
 ### 🧰 Languages and Tools
 <p align="left">
@@ -69,7 +65,7 @@
 
 ---
 
-### 🔤 Most Used Languages
+### 🔤 Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buushra1dm&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Langs"/>
 
 ---
@@ -80,16 +76,10 @@
 ---
 
 ### 🤝 Connect
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bushra-dajam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bushra-dajam" height="30" width="40" /></a>
-<a href="https://kaggle.com/bushradajam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bushra dajam" height="30" width="40" /></a>
 </p>
 - 💼 <a href="https://www.linkedin.com/in/bushra-dajam/">LinkedIn</a>
 - 📧 bushra1dajam@gmail.com
 
 ---
-
-> **EN:** Fresh AI graduate passionate about ML/DL/NLP, building data-driven solutions and collaborating on impactful projects.  
-> **AR:** خريجة ذكاء اصطناعي شغوفة بتعلم الآلة والتعلم العميق ومعالجة اللغة الطبيعية، أحب بناء حلول عملية والتعاون في مشاريع مؤثرة.
-
