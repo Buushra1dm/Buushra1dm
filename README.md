@@ -12,7 +12,7 @@
   <a href="https://github.com/Buushra1dm">
     <img src="https://img.shields.io/badge/GitHub-Buushra1dm-3b241d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bushra-dajam/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-cda56f?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Arabic%20AI-8f5a43?style=for-the-badge" />
@@ -80,5 +80,5 @@ Projects that combine technical depth with clean, user-friendly design.
 
 <p align="center">
   <a href="https://github.com/Buushra1dm">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bushra-dajam/)">LinkedIn</a>
 </p>
